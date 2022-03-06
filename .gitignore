@@ -1,5 +1,7 @@
 # my files
 .me
+.var
+data_models - MVP_screenshots
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
